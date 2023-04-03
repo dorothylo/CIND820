@@ -10,6 +10,12 @@ Dorothy Lo
 
 The code for this project can be found at: https://github.com/dorothylo/CIND820.git
 
+## Datasets
+
+The link for the dataset of application records: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction#:~:text=application_record.-,csv,-calendar_view_week
+
+The link for the dataset of credit records: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=credit_record.csv#:~:text=credit_record.-,csv,-Summary
+
 ## Programming language 
 
 Python
